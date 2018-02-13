@@ -1,7 +1,7 @@
 # Apprendre Machine Learning 
 ==============================
 
-e machine learning attrait a la magie de la science des donnée En fait, le machine learning; ou apprentissage automatique, n’est pas une discipline nouvelle. 
+Machine learning attrait a la magie de la science des donnée En fait, le machine learning; ou apprentissage automatique, n’est pas une discipline nouvelle. 
 Mais elle prend tout son sens avec l’arrivée des Big Data.
 Cela consiste en la mise en place d’algorithmes ayant pour objectif d’obtenir une analyse prédictive à partir de données, dans un but précis.
 C’est en quelque sorte l’apprentissage par l’exemple. le truc c'est qu'on va créer un programme qui crée un programme, plutôt que de tenter de définir des règles qui définissent avec certitude un évènement. 
@@ -28,10 +28,10 @@ Nous notons trois phases:
 	Exemple : dossier (Data-Preprocessing)
 	
 ## Régression
-=============
-la Régression: les données sont liées à d’autres données numériques par une corrélation (une droite, une courbe, une tendance).
+
+   la Régression: les données sont liées à d’autres données numériques par une corrélation (une droite, une courbe, une tendance).
 elle se resume a cette equation (equation d'une droite a deux (2) dimensions)
-	Y = b0 + b1 * X1
+Y = b0 + b1 * X1
 	
 	Y = Variable dependanet que nous cherchons a trouver
 	X = la variable independante
