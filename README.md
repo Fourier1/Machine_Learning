@@ -1,7 +1,7 @@
 # Apprendre Machine Learning 
 ==============================
 
-e machine learning attrait a la magie de la science des donnée En fait, le machine learning; ou apprentissage automatique, n’est pas une discipline nouvelle. 
+Machine learning attrait a la magie de la science des donnée En fait, le machine learning; ou apprentissage automatique, n’est pas une discipline nouvelle. 
 Mais elle prend tout son sens avec l’arrivée des Big Data.
 Cela consiste en la mise en place d’algorithmes ayant pour objectif d’obtenir une analyse prédictive à partir de données, dans un but précis.
 C’est en quelque sorte l’apprentissage par l’exemple. le truc c'est qu'on va créer un programme qui crée un programme, plutôt que de tenter de définir des règles qui définissent avec certitude un évènement. 
