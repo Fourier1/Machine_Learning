@@ -28,10 +28,10 @@ Nous notons trois phases:
 	Exemple : dossier (Data-Preprocessing)
 	
 ## Régression
-=============
-la Régression: les données sont liées à d’autres données numériques par une corrélation (une droite, une courbe, une tendance).
+
+   la Régression: les données sont liées à d’autres données numériques par une corrélation (une droite, une courbe, une tendance).
 elle se resume a cette equation (equation d'une droite a deux (2) dimensions)
-	Y = b0 + b1 * X1
+Y = b0 + b1 * X1
 	
 	Y = Variable dependanet que nous cherchons a trouver
 	X = la variable independante
